@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>      
+            <trans-unit id="1">
+                <source>Capability Summary</source>
+                <target>செயல்திறன் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Capability</source>
+                <target>செயல்திறன்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Capability Name</source>
+                <target>செயல்திறன் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Unlock All Records</source>
+                <target>அனைத்து ரெக்கார்ட்ஸ் திறப்பதற்காக</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Unlock Records</source>
+                <target>Unlock ரெக்கார்ட்ஸ்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Menu Capabilities</source>
+                <target>பட்டி திறன்களை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Menu Name</source>
+                <target>பட்டி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Module Name</source>
+                <target>தொகுதி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee List</source>
+                <target>பணியாளர் பட்டியல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Employee</source>
+                <target>பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Capabilities</source>
+                <target>பணியாளர் திறன்களை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Active</source>
+                <target>செயலில்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Unlock Forms</source>
+                <target>படிவங்கள் திறப்பதற்காக</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Form Names</source>
+                <target>படிவம் பெயர்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Module Name</source>
+                <target>தொகுதி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Successfully Unlocked</source>
+                <target>வெற்றிகரமாக அன்லாக்ட்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit</source>
+                <target>திருத்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Save</source>
+                <target>சேமிக்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Division</source>
+                <target>பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select at least one employee</source>
+                <target>குறைந்தது ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Do you really want to unlock?</source>
+                <target>உண்மையில் நீங்கள் திறப்பதற்காக விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select the search mode</source>
+                <target>தேடல் முறையில் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>No invalid characters are allowed</source>
+                <target>இல்லை தவறான எழுத்துக்கள் அனுமதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll process capability</source>
+                <target>சம்பள செயலாக்க திறன்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Process type</source>
+                <target>செயல்முறை வகை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Successfully Deleted</source>
+                <target>வெற்றிகரமாக நீக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Do you really want to delete?</source>
+                <target>உண்மையில் நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date of Birth can not be a future date.</source>
+                <target>பிறந்த தேதி எதிர்கால தேதி இருக்க முடியாது.</target>
+            </trans-unit>     
+        </body>
+    </file>
+</xliff>

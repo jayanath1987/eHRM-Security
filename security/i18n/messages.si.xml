@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+    <header/>
+    <body>     
+      <trans-unit id="1">
+        <source>Capability Summary</source>
+        <target>ශක්‍යතා සාරාංශය</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Capability</source>
+        <target>ශක්‍යතාව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Capability Name</source>
+        <target>ශක්‍යතා නම</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Unlock All Records</source>
+        <target>සියලු අගුලු ඉවත් කරන්න</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Unlock Records</source>
+        <target>අගුලු ඉවත්කරන්න</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Menu Capabilities</source>
+        <target>මෙනු ශක්‍යතාව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Menu Name</source>
+        <target>මෙනුවේ නම</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Module Name</source>
+        <target>ඒකකයේ නම</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Employee List</source>
+        <target>සේවක ලයිස්තුව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Remove</source>
+        <target>ඉවත් කරන්න</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Add Employee</source>
+        <target>සේවක එකතුව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Employee Capabilities</source>
+        <target>සේවක ශක්‍යතාව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Active</source>
+        <target>ක්‍රියාකාරී</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Unlock Forms</source>
+        <target>අගුලු ඉවත්කිරීම</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Form Names</source>
+        <target>පිටුව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Module Name</source>
+        <target>ඒකකයේ නම</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Successfully Unlocked</source>
+        <target>සර්ථක ලෙස අගුලු ඉවත් කරන ලදී</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Edit</source>
+        <target>සංස්කරණය</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Save</source>
+        <target>සුරකින්න</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Division</source>
+        <target>අංශය</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Please select at least one employee</source>
+        <target>කරුණාකර සේවකයෙක් තොරන්න</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Do you really want to Unlock?</source>
+        <target>අගුළු ඉවත් කිරීමට උවමනාද?</target>
+      </trans-unit>
+           <trans-unit id="116">
+                <source>Payroll process capability</source>
+                <target>පඩිපත සැකසීමේ ශක්‍යතාව </target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Process type</source>
+                <target>සැකසීමේ ක්‍රමය</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Payroll Type</source>
+                <target>පඩිපත ක්‍රමය</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>District/Division</source>
+                <target>දිස්ත්‍රික්කය/කොට්ඨාශය</target>
+            </trans-unit>       
+     </body>
+  </file>
+</xliff>

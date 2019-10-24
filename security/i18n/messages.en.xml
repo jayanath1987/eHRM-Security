@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2008-12-18T22:47:25Z" product-name="messages">
+    <header/>
+        <body>      
+      <trans-unit id="1">
+        <source>Capability Summary</source>
+        <target>Capability Summary</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Capability</source>
+        <target>Capability</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Capability Name</source>
+        <target>Capability Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Unlock All Records</source>
+        <target>Unlock All Records</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Unlock Records</source>
+        <target>Unlock Records</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Menu Capabilities</source>
+        <target>Menu Capabilities</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Menu Name</source>
+        <target>Menu Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Module Name</source>
+        <target>Module Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Employee List</source>
+        <target>Employee List</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Remove</source>
+        <target>Remove</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Add Employee</source>
+        <target>Add Employee</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Employee Capabilities</source>
+        <target>Employee Capabilities</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Active</source>
+        <target>Active</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Unlock Forms</source>
+        <target>Unlock Forms</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Form Names</source>
+        <target>Form Names</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Module Name</source>
+        <target>Module Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Successfully Unlocked</source>
+        <target>Successfully Unlocked</target>
+      </trans-unit>    
+     </body>
+  </file>
+</xliff>
